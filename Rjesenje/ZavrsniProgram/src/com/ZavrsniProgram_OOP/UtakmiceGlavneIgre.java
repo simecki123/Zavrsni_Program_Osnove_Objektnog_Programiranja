@@ -366,6 +366,6 @@ public class UtakmiceGlavneIgre {
      *      postavlja novo stanje na racunu iz druge klase.
      */
     public void setTrenutnoStanjeNaRacunu(int trenutnoStanjeNaRacunu) {
-        trenutnoStanjeNaRacunu = trenutnoStanjeNaRacunu;
+        this.trenutnoStanjeNaRacunu = trenutnoStanjeNaRacunu;
     }
 }
